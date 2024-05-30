@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/kenanigans-dev/UpDowntime/issues"
   },
-  "homepage": "https://github.com/kenanigans-dev/UpDowntime#readme"
+  "homepage": "https://github.com/kenanigans-dev/UpDowntime#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.83",
+    "@types/node": "^20.12.13",
+    "@types/npm": "^7.19.3"
+  }
 }
