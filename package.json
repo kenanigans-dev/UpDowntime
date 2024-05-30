@@ -1,0 +1,25 @@
+{
+  "name": "updowntime",
+  "version": "1.0.0",
+  "description": "Uptime workflows for downtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kenanigans-dev/UpDowntime.git"
+  },
+  "keywords": [
+    "google-apps-script",
+    "clasp",
+    "node",
+    "typescript"
+  ],
+  "author": "Ken Dait",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenanigans-dev/UpDowntime/issues"
+  },
+  "homepage": "https://github.com/kenanigans-dev/UpDowntime#readme"
+}
